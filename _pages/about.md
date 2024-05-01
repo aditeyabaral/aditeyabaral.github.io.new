@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a `Big Data Analytics Engineer` and `Research Collaborator` at [Cisco Webex](https://www.webex.com/). I am currently building `on-prem LLMs` with various conversational modelling techniques to integrate AI-assisted features with the [Webex Assistant](https://www.webex.com/ai-assistant.html).
+I am an `Applied Research Collaborator` at [Cisco Webex](https://www.webex.com/). I am currently building `on-prem LLMs` with various conversational modelling techniques to integrate AI-assisted features with the [Webex Assistant](https://www.webex.com/ai-assistant.html).
 
 My primary research interests lie in `language and vision understanding`. I work extensively in the field of `transfer learning`, `foundation models` and `representation learning`, with a focus on creating task-agnostic multi-modal architectures to advance understanding and reasoning capabilities in machines. 
 
