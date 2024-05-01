@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2021-08-04 07:59:00-0400
+date: 2021-08-01 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Published "[Analysis of Kepler Objects of Interest using Machine Learning for Exoplanet Identification](https://ieeexplore.ieee.org/document/9498407)" at `IEEE International Conference on Intelligent Technologies (CONIT) 2021`.
+Started working as an `Applied Research Scientist Intern` at `Intel Research`, India. I was advised by [Dr. Anbumani Subramanian](https://sites.google.com/view/anbumani/) and [Anay Majee](http://anaymajee.me/).
