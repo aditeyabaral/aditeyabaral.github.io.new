@@ -2,96 +2,110 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Aditeya Baral
     - name: Languages
-      value: English, German
+      value: English, Hindi, Bengali
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Technology in Computer Science and Engineering, specialization in Machine Learning & Data Science
+      institution: PES University, Bangalore, India
+      year: 2018-2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Awarded a specialization in Machine Learning and Data Science.
+        - Worked as an Applied Research Intern at the Center for Cloud Computing & Big Data, advised by Dr. KV Subramanium.
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+
+    - title: Applied Research Collaborator
+      institution: Cisco Systems, India
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Instruction fine-tuning LLMs like Mistral and Llama-2 on-prem using conversational modelling techniques to enable secure and cost-effective AI solutions for engineers and customers.
+        - Led the initiative to build a novel pre-training strategy for learning representations from conversational data using PyTorch and HuggingFace.
+        - Developed the Webex Contextual Search Engine and improved information retrieval, searching, recommendations and topic modelling with minimal overhead latency.
+        - Assisted in integrating the OpenAI GPT-3.5 LLM API with the Webex Assistant to add summarisation capabilities to message threads and meeting transcripts.
+
+    - title: Applied Research Scientist Intern
+      institution: Intel, India
+      year: 2021-2022
       description:
-        - Description 1.
-        - Description 2.
+        - Explored Few-Shot Learning Object Detection (FSOD) techniques to reduce catastrophic forgetting in constrained driving environments.
+        - Investigated and designed novel attention mechanisms to learn inter-object relationships using PyTorch.
+        - Outperformed all existing approaches at the time by 0.2 mAP and 3 mAP on base and novel classes on the Few-Shot India Driving Dataset, a benchmark for FSOD.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Applied Research Intern
+      institution: Center for Cloud Computing & Big Data, PES University, India
+      year: 2020
+      description: 
+        - Explored ways to reduce tail latencies in latency-critical applications such as translation and image recognition.
+        - Compiled and used TailBench for simulation of application loads to monitor performance and analyse results.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Work Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+    - title: Big Data Analytics Engineer
+      institution: Cisco Systems, India
+      year: 2022
+      description:
+        - Develop and maintain streaming jobs using Scala and Flink for Media Quality Analytics Services to process data from Webex Calls and Meetings.
+        - Compute, investigate, analyse and report real-time metrics from the data processing pipeline using statistical modelling techniques.
+        - Optimise and enhance Webex Logs & Analytics dashboards using Iceberg and Pinot to set up alerts and visualise real-time metrics and KPIs.
+    
+    - title: Big Data Analytics Engineer Intern
+      institution: Cisco Systems, India
+      year: 2022
+      description:
+        - Contributed to the migration of the VideoMesh Meetings Analytics Engine from Java and Spark to Scala and Flink to significantly reduce processing time and improve real-time report generation.
+        - Maintained and developed the VideoMesh Analytics Dashboard on Grafana and Kibana to analyse data from meetings and deliver real-time metrics to clients and customers.
+        - Built customer-facing applications using Python and Flask and supported the development and global roll-out of Webex VideoMesh Developer APIs.
+
+- title: Skills
+  type: time_table
+  contents:
+    - title: Languages
+      items: Python, Scala, Java, C, R, SQL, Octave
+    - title: ML/Stats
+      items: PyTorch, Tensorflow, HuggingFace, NLTK, pandas, NumPy, scikit-learn, seaborn, matplotlib
+    - title: Artificial Intelligence Techniques
+      items: Representation Learning, Transfer Learning, Few-Shot Learning, Language Models, Natural Language Understanding
+    - title: Big Data
+      items: Hadoop, Kafka, Spark, Flink, Iceberg, Pinot, ELK
+    - title: Frameworks/Tools
+      items: Git, Docker, Flask, Grafana, PSQL, MongoDB, AWS, Linux Systems
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - title: 'Ranked #1 Internationally out of 250+ teams at the Webex IDEA Hackathon 2023'
+          contents:
+            - I worked on the integration of LLMs with the Webex Assistant to enable summarisation of message threads, media and transcripts
+            - I also implemented the addition of thread-related actions such as searching, grouping and sorting to the Webex Assistant.
+            - These features have now been rolled out globally to all Webex users.
+        - title: 'Ranked #1 regionally and Top 20 Internationally out of 250+ teams at the Webex Playtime Hackathon 2023'
+          contents:
+            - My work on a conversational language representation model displayed significant improvement in searching, ranking and recommendations across Webex.
+            - The new contextual search engine has been added to the feature pipeline of the Webex Assistant.
+    - year: 2022
+      items: 
+        - Awarded the Research Contribution Award by PES University for my work in the field of Machine Learning.
+        - 3x Scholarship Recipient for academic excellence at PES University.
 
-- title: Academic Interests
-  type: nested_list
+- title: Services and Recognitions
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - year: 2023
+      items: 
+        - title: Speaker, Guest Lecture on - Building Foundation Models using Transformers
+          contents:
+            - Delivered a guest lecture to undergraduate students on the advancements in natural language understanding and representation learning techniques and highlighted the applications of foundation models.
+    - year: 2021
+      items: 
+        - Appointed a Teaching Assistant for the Big Data course at the Department of Computer Science, PES University.
+    
