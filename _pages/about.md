@@ -16,9 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an `Applied Research Collaborator` at [Cisco Webex](https://www.webex.com/). I am currently building `on-prem LLMs` with various conversational modelling techniques to integrate AI-assisted features with the [Webex Assistant](https://www.webex.com/ai-assistant.html).
+I am an `Applied Researcher` at [Cisco Webex](https://www.webex.com/). I am currently training `on-prem LLMs` to integrate secure and cost-effective AI solutions with the [Webex AI Assistant](https://www.webex.com/ai-assistant.html).
 
-My primary research interests lie in `language and vision understanding`. I work extensively in the field of `transfer learning`, `foundation models` and `representation learning`, with a focus on creating task-agnostic multi-modal architectures to advance understanding and reasoning capabilities in machines. 
+My primary research interests lie in language and vision understanding. I work extensively in the field of `transfer learning`, `foundation models` and `representation learning`, with a focus on developing task-agnostic multi-modal architectures to advance understanding and reasoning capabilities in machines. 
 
 I previously worked as an `Applied Research Scientist Intern` at [Intel](https://www.intel.in/content/www/in/en/homepage.html) Research India, where I was advised by [Dr. Anbumani Subramanian](https://sites.google.com/view/anbumani/) and [Anay Majee](http://anaymajee.me/) to develop various `attention mechanisms` for vision, aimed at autonomous driving in unconstrained traffic environments like India. 
 
